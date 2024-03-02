@@ -1,7 +1,7 @@
-com\microservice\product\dto\Review.class
-com\microservice\product\ProductApplication.class
-com\microservice\product\service\ProductServiceImpl.class
-com\microservice\product\controller\ProductController.class
-com\microservice\product\repository\ProductRepository.class
-com\microservice\product\service\ProductService.class
-com\microservice\product\pojo\Product.class
+com/product/service/ProductService.class
+com/product/service/ProductServiceImpl.class
+com/product/controller/ProductController.class
+com/product/pojo/Review.class
+com/product/ProductApplication.class
+com/product/repository/ProductRepository.class
+com/product/pojo/Product.class
