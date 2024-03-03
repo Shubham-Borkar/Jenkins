@@ -44,7 +44,7 @@ public class ProductServiceImpl implements ProductService {
 		if(product!=null) {
 			rlist=product.getReviews();
 			}
-		
+		//git trigger
 		return rlist;
 	}
 
